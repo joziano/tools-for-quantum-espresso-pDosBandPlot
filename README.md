@@ -23,7 +23,9 @@
   
    **2.1.1** Copy pDosBandPlot.sh to folder with electronic band structure output data. 
       
-   **2.1.2** Open terminal inside folder with electronic band structure output data and execute: bash pDosBandPlot.sh.
+   **2.1.2** Open terminal inside folder with electronic band structure output data and execute: 
+   
+    bash pDosBandPlot.sh
      
    **2.1.3** Insert the parameters in the respective fields (attention to the requested formats). The "[P]DOS plot" field  must be set to "no". See the example below: 
 
@@ -39,9 +41,13 @@ https://user-images.githubusercontent.com/94269819/201586964-39f11deb-781d-48fa-
   
    **3.1.1** After the electronic band structure plot, the band-data folder is created. Copy this folder to a other directory, for example, Band[P]DOS. 
       
-   **3.1.2** After the [P]DOS calculation and execution of the pdos-sum.sh (https://github.com/joziano/tools-for-quantum-espresso-pdos), the pdos-data folder  is created. Copy this folder to the same directory as band-data.
+   **3.1.2** After the [P]DOS calculation and execution of the pdos-sum.sh (https://github.com/joziano/tools-for-quantum-espresso-pdos), the pdos-data folder is created. Copy this folder to the same directory as band-data.
    
-   **3.1.3** Insert the parameters in the respective fields (attention to the requested formats). The "[P]DOS plot" field  must be set to "yes". See the example below: 
+   **3.1.3** Open terminal inside folder and execute:
+              
+    bash pDosBandPlot.sh
+   
+   **3.1.4** Insert the parameters in the respective fields (attention to the requested formats). The "[P]DOS plot" field  must be set to "yes". If you want to modify any parameter entered, just open a terminal in the folder  and run the program again. A dialog box will show the parameters to modify. See the example below: 
 
 https://user-images.githubusercontent.com/94269819/201599212-331a1d1a-5201-4fcb-84d0-53f9c31155dd.mov
 
