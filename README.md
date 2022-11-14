@@ -1,3 +1,7 @@
+# Please, when using this tool, cite:
+
+J. R. M. Monteiro, & Henrique Pecinatto. (2022). pDosBandPlot.sh/tools-for-quantum-espresso (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7319835
+
 # pDosBandPlot
   
     pDosBandPlot.sh is an auxiliary tool for Quantum Espresso Linux users. It semiautomates the plotting of electronic 
