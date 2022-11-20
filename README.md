@@ -4,8 +4,8 @@ J. R. M. Monteiro, & Henrique Pecinatto. (2022). pDosBandPlot.sh/tools-for-quant
 
 # pDosBandPlot
   
-    pDosBandPlot.sh is an auxiliary tool for Quantum Espresso Linux users. It semiautomates the plotting of electronic 
-    band structure and Total[Partial] Density of States from Quantum Espresso output simulation data.
+  pDosBandPlot.sh is an auxiliary tool for Quantum Espresso Linux users. It semiautomates the plotting of electronic 
+  band structure and Total[Partial] Density of States from Quantum Espresso output simulation data.
     
 # 1. Requirements
 
